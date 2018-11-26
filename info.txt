@@ -1,0 +1,56 @@
+[*] INFO: DLL IS VULNERABLE TO EXECUTABLE TEST-> C:\Windows\system32\rsaenh.dll
+
+[+] EXECUTABLE TEST TOTAL DLL's IDENTIFIED: 95
+[+] EXECUTABLE TEST TOTAL VULN COUNT: 48
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\CRYPTBASE.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\dbghelp.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\profapi.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\dwmapi.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\powrprof.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\DNSAPI.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\dhcpcsvc6.DLL
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\dhcpcsvc.DLL
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\NLAapi.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\System32\winrnr.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\napinsp.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\pnrpnsp.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\wshbth.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\WINTRUST.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\audioses.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\MMDevAPI.DLL
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\PROPSYS.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\CLBCatQ.DLL
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\mscms.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\WTSAPI32.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\WINSTA.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\wlanapi.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\wlanutil.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\apphelp.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\peerdist.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\AUTHZ.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\SspiCli.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\credssp.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\System32\wship6.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\System32\fwpuclnt.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\rasadhlp.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\IconCodecService.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\WindowsCodecs.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\ntmarta.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\WLDAP32.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\DEVRTL.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\MPR.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\explorerframe.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\DUser.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\DUI70.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Program Files\Thunder Network\Thunder\Pr
+ogram\resources\bin\TBC\xlbrowsercomponent.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\LINKINFO.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\ntshrui.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\srvcli.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\cscapi.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\slc.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\CRYPTSP.dll
+[*] EXECUTABLE TEST VULNERABLE DLL-> C:\Windows\system32\rsaenh.dll
+
+
+cscapi.dll
