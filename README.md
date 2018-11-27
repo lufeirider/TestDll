@@ -29,6 +29,7 @@ rattler测出来的dll有的不一定有效，有的能够劫持，但是严重�
 使用TestDLL生成测试dll，这个用于检测是否能够完好利用，因为有些dll用于比较关键，你提供一个恶意的dll，甚至连主界面都进不去，而有些dll不太重要，影响的功能也不重要。
 
 测试：CRYPTBASE.dll，将放入`C:\Program Files\Thunder Network\Thunder\Program`中，启动迅雷，发现卡在启动界面，主界面进不去。
+
 ![](http://image.lufe1.cn/TestDll/2.png)
 
 测试：cscapi.dll，顺利弹窗。
